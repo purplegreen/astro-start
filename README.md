@@ -1,4 +1,4 @@
-# Astro Starter
+# Description
 
 Customisation and extension of a basic Astro project, with the integration of a CMS and Vue.js features.
 
@@ -14,7 +14,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
